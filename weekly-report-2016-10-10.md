@@ -1,0 +1,18 @@
+# Weekly Report: 10/10/2016
+- **huydx**: theory of computation next (base https://blog.rudolph-miller.com/2016/06/11/create-regexp-engine/ )
+  - output: http://kipalog.com/posts/Computation-theory--state-machine-and-competitive-programming
+- **nguyenquangminh0711**:
+  - Ebook research [HTTP: The Definitive Guide (Definitive Guides)](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=sr_1_1?ie=UTF8&qid=1474426868&sr=8-1&keywords=http+the+definitive+guide) (continue) 💀
+  - Implement simple HTTP client and simple HTTP server based on TCP sockets.
+- **huytd**: [Generalized Linear Models](https://huytd.github.io/posts/generalized-linear-models.html) (Still updating)
+- **huynhquancam**: Ruby VM - YARV
+  - Book [Ruby Under a Microscope]
+  - [Output: Ruby Internal - Compilation](http://kipalog.com/posts/Ruby-Internal---Code-Ruby-cua-ban-duoc-thuc-thi-nhu-the-nao---Compilation--Phan-3)
+- **kiennt**: **Operating System** Scheduling algorithm
+  - output: https://gist.github.com/kiennt/cbbbde877147857568b744585e817618
+- **checkraiser**: [Neural Network Basic](https://kipalog.com/posts/Neural-Network---Phan-1)
+- **anhduy**: 💀
+- **lucdang**: 💀
+- **unrealhoang**: 💀
+- **giangnh**: References and borrowing, lifetimes in Rust
+  - [Output](https://kipalog.com/posts/References-and-borrowing--lifetimes-in-Rust)
